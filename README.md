@@ -2,7 +2,7 @@
 - 👀 I’m interested in building a spiderman suit.
 - 🌱 I’m currently learning ROS system and microfluidic control centre.
 - 💞️ I’m looking to collaborate on AI control centre and AI assistance.
-- 📫 How to reach me e1354518@u.nus.edu
+- 📫 How to reach me: e1354518@u.nus.edu
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I moved to Singapore since 15 y/o, rejected by Oxford, currently reading Mathematics in National University of Singapore.
 
